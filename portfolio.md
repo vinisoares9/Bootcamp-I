@@ -64,3 +64,4 @@ Oficina: Processo administrativo disciplinar na prática - 19/10/2024
 Roda de conversa - Prevenção e Resolução de disputas administrativa, judicial e arbitral - 20/10/2024
 
 **Link para portfólio no Google Docs:** https://docs.google.com/document/d/1DluQqE_rpZ-V_jIc-esq2fk84GH4BaIeYDUkUUbPp9Q/edit?tab=t.0
+**Link para portfólio no Google Slides:** https://docs.google.com/presentation/d/1E-hHyhCxj8YuN4nHgUu6D6-C15UkCOVvPuxEk3fMleM/edit?slide=id.gc6f80d1ff_0_0#slide=id.gc6f80d1ff_0_0
