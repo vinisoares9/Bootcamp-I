@@ -17,4 +17,6 @@ Repositório para a disciplina Bootcamp I
 
 📹 Vídeo *Youtube* (1ª parte): https://www.youtube.com/watch?v=SC9XPGE43MY&ab_channel=ViniciusRibeiroSoares
 
+📹 Vídeo *Youtube* (2ª parte): https://youtu.be/zR-lP1zc8eI
+
 🔗 Site (Google sites): https://sites.google.com/view/portfoliohubvinicius/p%C3%A1gina-inicial
