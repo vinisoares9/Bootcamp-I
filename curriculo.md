@@ -1,59 +1,115 @@
-# Currículo Vinícius Ribeiro Soares
+# 👋 Olá! Eu sou o Vinícius Ribeiro Soares
 
-Vinícius Soares
+🎓 Estudante de **Ciência de Dados e Machine Learning (Inteligência Artificial)**
+📍 Brasília – DF
+📧 [vini.ribeiro.soares@gmail.com](mailto:vini.ribeiro.soares@gmail.com)
 
-SQN 202, Bloco E, Apto. 107
+🔗 **Links profissionais**
 
-Asa Norte, Brasília-DF; CEP: 70832-050
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/vinisoares9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vin%C3%ADcius-soares-b60616352/)
 
-(61) 98278-2069
+---
 
-vini.ribeiro.soares@gmail.com
+# 🎯 Objetivo
 
-Nascimento: 27/02/2005
+Sou estudante de **Ciência de Dados e Machine Learning (IA)**, atualmente no **3º semestre**, com interesse em:
 
-**Competências**
+* 🤖 Inteligência Artificial
+* 📊 Análise de Dados
+* 🧠 Machine Learning
+* 📈 Desenvolvimento de soluções baseadas em dados
 
-2 anos (4 semestres) cursados de graduação em Direito na faculdade UNICEUB (Centro de ensino unificado de Brasília); 
+Busco **estágio ou oportunidade júnior** para aplicar e desenvolver conhecimentos em **programação, estatística e aprendizado de máquina**.
 
-Atualmente, graduando em Ciência de Dados e Machine Learning (Inteligência Artificial) na mesma faculdade (UNICEUB); 
+---
 
-Estudando inglês via EAD na Casa Thomas Jefferson, Asa Norte, Brasília-DF;
+# 🎓 Formação Acadêmica
 
-Experiência mínima em Direito Penal, Direito Contratual e Direito Civil;
+**Bacharelado em Ciência de Dados e Machine Learning (IA)** *(cursando)*
+🏫 Centro Universitário de Brasília – UniCEUB
+📅 2025 – atual | 3º semestre
 
-Experiência boa em edição de vídeo. Aprendi a editar vídeos pelo software de edição de vídeo “Sony vegas Pro 17” em 2017, fazendo apenas por hobbie desde então;
+**Bacharelado em Direito** *(graduação interrompida)*
+🏫 Centro Universitário de Brasília – UniCEUB
+📅 2023 – 2024
 
-Quanto a habilidades pessoais, tenho experiência razoável em corridas de longa distância (5km, 8km, 10km etc). 
+---
 
-Inglês Intermediário Superior - B2;
+# 💻 Habilidades Técnicas
 
-Espanhol Intermediário Avançado - B2.
+### 🖥️ Linguagens
 
+* Python (básico / intermediário)
+* SQL (intermediário)
+* DAX (básico)
 
-**Formação**
+### 🗄️ Banco de Dados
 
-**Le-petit Galois / Ensino Fundamental I**
-*JANEIRO DE 2011 - DEZEMBRO DE 2014, SGAS I SGAS 908, BRASÍLIA-DF*
-Ensino Fundamental I concluído do 1° ao 4° ano no colégio “Le-petit Galois”, na Asa Sul, em Brasília-DF entre janeiro de 2011 e dezembro de 2014.
+* MySQL
+* Oracle SQL Developer
 
-**Centro Educacional Sigma / Ensino Fundamental I e II**
-*JANEIRO DE 2015 - DEZEMBRO DE 2019,  SETOR DE GRANDES ÁREAS NORTE 606, ASA NORTE, BRASÍLIA-DF*
-Último ano do Ensino Fundamental I (5° ano) e Ensino Fundamental II completo concluídos no colégio “Centro Educacional Sigma”, na Asa Norte, Brasília-DF,  entre janeiro de 2015 e dezembro de 2019.
+### 📊 Análise de Dados
 
-**Colégio Galois / Ensino Médio**
-*JANEIRO DE 2020 - DEZEMBRO DE 2022,, SGAS II SGAS 601 - ASA SUL, BRASÍLIA-DF*
-1° e 2° Anos do Ensino Médio concluídos no Colégio “Galois”, na Asa Sul, em Brasília-DF entre janeiro de 2020 e dezembro de 2021.
+* Power BI (básico / intermediário)
+* Criação de dashboards
+* Conceitos iniciais de análise de dados
 
-**Centro Educacional Sigma / Ensino Médio**
-*JANEIRO DE 2022 - DEZEMBRO DE 2022,  SGAN 910, ASA NORTE, BRASÍLIA-DF*
-3° Ano do Ensino Médio concluído no Colégio “Centro Educacional Sigma” entre janeiro de 2022 e dezembro de 2022.
+### 🧠 Fundamentos
 
+* Lógica de programação
+* Estruturas básicas de dados
 
-**Prêmios**
+### 🛠️ Ferramentas
 
-Troféu terceiro lugar na corrida “Night Run - Doe sangue”, de junho de 2022, na categoria 18-28 anos, modalidade 5km.
+* PyCharm
+* MySQL Workbench
+* Git (básico)
+* Power BI
 
-Troféu primeiro lugar na corrida “Halloween Night Run”, de outubro de 2022, na categoria 18-28 anos, modalidade 5km.
+---
 
-**Link para currículo no Google Docs:** https://docs.google.com/document/d/1LFY-OVRqKvCTJSp3aqs4U591gBA7Mt3c7CuWvoABfBs/edit?tab=t.0 
+# 📜 Certificações e Cursos
+
+### Cisco
+
+* **Introduction to Cybersecurity** — Outubro/2025
+
+### Curso em Vídeo
+
+* **Algoritmo (40h)** — Julho/2025
+* **Python 3 – Mundo 1 (40h)** — Agosto/2025
+* **Python 3 – Mundo 2 (40h)** — Setembro/2025
+* **Python 3 – Mundo 3 (40h)** — Dezembro/2025
+* **Python 4 – Mundo 4 (40h)** — Em andamento
+* **MySQL (40h)** — Dezembro/2025
+
+### UniCEUB
+
+* **Japonês Básico I** — Junho/2023
+
+### Alura
+
+* **Carreira: Especialista em Inteligência Artificial** — Em andamento
+
+---
+
+# 🌎 Idiomas
+
+* 🇺🇸 Inglês — Intermediário Superior (B2)
+* 🇪🇸 Espanhol — Intermediário Avançado (B2)
+* 🇯🇵 Japonês — Básico (JLPT N5)
+
+---
+
+# 🚀 Atividades Complementares
+
+🏃 **Corridas de longa distância**
+Disciplina, constância, foco em metas e cuidado com a saúde.
+
+🎬 **Edição de vídeo (Sony Vegas Pro)**
+Experiência autodidata com edição de vídeo, desenvolvendo criatividade, organização e aprendizado independente.
+
+---
+
+⭐ Sempre buscando aprender mais sobre **Dados, Inteligência Artificial e Machine Learning**.
